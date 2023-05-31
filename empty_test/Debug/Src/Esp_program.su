@@ -1,0 +1,6 @@
+Esp_program.c:25:6:HEsp_voidInit	16	static
+Esp_program.c:51:6:HEsp_voidConnectOnWifi	136	static
+Esp_program.c:70:6:HEsp_voidConnectOnServer	136	static
+Esp_program.c:90:4:HEsp_voidSendDataPOST	144	static
+Esp_program.c:147:4:HEsp_voidSendData	128	static
+Esp_program.c:187:4:u8EspValidateCmd	24	static
